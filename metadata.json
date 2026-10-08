@@ -1,0 +1,6 @@
+{
+  "name": "100 Years Life Simulator",
+  "description": "An in-depth life simulation game where you live from birth to 100 years old, making decisions about education, career, relationships, real estate, investments, health, and lifestyle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
